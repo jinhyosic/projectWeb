@@ -1,5 +1,6 @@
 SPRING VERSION : SPRING BOOT 3.3.X
 JAVA VERSION : 21 (최소 17)
+TOMCAT : 11.0.X
 Build Tool : Gradle
 ORM/DB Lib : Spring Data JPA + QueryDSL
 DB Tool : H2(학습용), MariaDB/PostgreSQL(실전) 중 사용
